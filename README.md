@@ -4,5 +4,5 @@
 Các chức năng như: Đăng post (gồm có hình ảnh, văn bản, video), like, chia sẻ, quản lý thông tin cá nhân
 
 # Mô tả
-Ứng dụng viết bằng Javascript với môi trường reactnative
+Ứng dụng viết bằng Javascript với môi trường reactnative  
 Dùng firebase để lưu trữ dữ liệu
